@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C4CCAA781BB08BE50072208B"
-               BuildableName = "FoodTracker.app"
-               BlueprintName = "FoodTracker"
-               ReferencedContainer = "container:FoodTracker.xcodeproj">
+               BuildableName = "Aspen IT Support.app"
+               BlueprintName = "Aspen IT Support"
+               ReferencedContainer = "container:Aspen IT Support.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C4CCAA8C1BB08BE50072208B"
-               BuildableName = "FoodTrackerTests.xctest"
-               BlueprintName = "FoodTrackerTests"
-               ReferencedContainer = "container:FoodTracker.xcodeproj">
+               BuildableName = "Aspen IT Support.xctest"
+               BlueprintName = "Aspen IT SupportTests"
+               ReferencedContainer = "container:Aspen IT Support.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C4CCAA781BB08BE50072208B"
-            BuildableName = "FoodTracker.app"
-            BlueprintName = "FoodTracker"
-            ReferencedContainer = "container:FoodTracker.xcodeproj">
+            BuildableName = "Aspen IT Support.app"
+            BlueprintName = "Aspen IT Support"
+            ReferencedContainer = "container:Aspen IT Support.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,12 +66,24 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C4CCAA781BB08BE50072208B"
-            BuildableName = "FoodTracker.app"
-            BlueprintName = "FoodTracker"
-            ReferencedContainer = "container:FoodTracker.xcodeproj">
+            BuildableName = "Aspen IT Support.app"
+            BlueprintName = "Aspen IT Support"
+            ReferencedContainer = "container:Aspen IT Support.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "NSZombieEnabled"
+            value = "YES"
+            isEnabled = "NO">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
       <AdditionalOptions>
+         <AdditionalOption
+            key = "NSZombieEnabled"
+            value = "YES"
+            isEnabled = "YES">
+         </AdditionalOption>
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
@@ -85,9 +97,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C4CCAA781BB08BE50072208B"
-            BuildableName = "FoodTracker.app"
-            BlueprintName = "FoodTracker"
-            ReferencedContainer = "container:FoodTracker.xcodeproj">
+            BuildableName = "Aspen IT Support.app"
+            BlueprintName = "Aspen IT Support"
+            ReferencedContainer = "container:Aspen IT Support.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
